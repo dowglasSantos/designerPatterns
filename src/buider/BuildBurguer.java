@@ -12,5 +12,4 @@ public abstract class BuildBurguer {
     Burguer build(){
         return burguer;
     };
-
 }
